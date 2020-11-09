@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<head><!--Aufgabe1 -->
+  <title>Hamburg</title>
+</head>
+<html>
+<body>
+  <h1 id="myID1">Hamburg</h1>
+  <p class="myClass1">Zweitgrößte Stadt Deutschlands</p>
+  <p class="myClass2">1,8 Millionen Einwohner</p>
+  <p class="myClass3">An Alster und Elbe</p>
+  <p>Mehr erfahren</p>
+  <p>Sehenswürdigkeiten</p>
+  <p>Veranstaltungen</p>
+  <p>Kontakt</p>
+  <p id="myID2">Ich bin David</p>
+</body>
+</html>
+
